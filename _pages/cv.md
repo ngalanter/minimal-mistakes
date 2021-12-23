@@ -1,7 +1,8 @@
 ---
 title: "CV"
 permalink: /cv/
-layout: default
+layout: home
+author_profile: true
 ---
 
 under construction

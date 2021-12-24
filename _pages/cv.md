@@ -5,22 +5,6 @@ layout: home
 author_profile: true
 ---
 
-under construction
+<object data="../assets/path/to/document.pdf" width="1000" height="1000" type='application/pdf'></object>
 
-PDF link
 
-#### Education
-
-#### Honors and Awards
-
-#### Research Experience
-
-#### Teaching Experience
-
-#### Other Relevant Experience
-
-#### Professional Service and Affiliations
-
-#### Presentations
-
-#### Publications

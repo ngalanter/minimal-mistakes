@@ -103,17 +103,17 @@ analytics:
 # Site Author
 author:
   name             : "Nina Galanter"
-  avatar           : "/assets/images/NGalanter.jpg"
-  bio              : "Biostatistics PhD Student at the University of Washington. she/her."
+  avatar           : "/assets/images/NGalanter.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Biostatistics PhD Student at the University of Washington."
   location         : "Seattle, WA"
   email            : "galanter@uw.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       url: "mailto:galanter@uw.edu"
-    - label: "Name Pronounciation"
-      icon: "fas fa-fw fa-volume-up"
-       url: "https://namedrop.io/ninagalanter"
+      # url: "mailto:galanter@uw.edu"
+ #   - label: "Website"
+ #     icon: "fas fa-fw fa-link"
+ #      url: "https://your-website.com"
   #  - label: "Twitter"
   #    icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"

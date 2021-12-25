@@ -110,7 +110,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-  #     url: "mailto:galanter@uw.edu"
+       url: "mailto:galanter@uw.edu"
     - label: "Name Pronounciation"
       icon: "fas fa-fw fa-volume-up"
        url: "https://namedrop.io/ninagalanter"

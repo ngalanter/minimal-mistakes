@@ -112,7 +112,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:galanter@uw.edu"
     - label: "Name Pronounciation"
-      icon: "/assets/images/Speaker.png"
+      icon: "fas fa-fw fa-volume-up"
        url: "https://namedrop.io/ninagalanter"
   #  - label: "Twitter"
   #    icon: "fab fa-fw fa-twitter-square"

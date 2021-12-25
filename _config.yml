@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "Nina Galanter"
-  avatar           : "/assets/images/NGalanter.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/NGalanter.jpg"
   bio              : "Biostatistics PhD Student at the University of Washington. she/her."
   location         : "Seattle, WA"
   email            : "galanter@uw.edu"
